@@ -1,4 +1,5 @@
-# student_data_analysis
+# Student Data Analysis
+  Module 4 Challenge: Analisys of student data using pandas library and jupyter notebook
 ## Report Findings
   The variation between the smallest and the largest schools is high, while the smallest school has 171 the largest school has 2038 students.
   Cleaning and understanding the data is very important to have reliable results
